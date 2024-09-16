@@ -9,3 +9,15 @@ C:\Users\happy\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\C
 C:\Users\happy\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\refint\CalculatorEngine.dll
 C:\Users\happy\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.pdb
 C:\Users\happy\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\ref\CalculatorEngine.dll
+C:\Users\happy\Source\Repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.deps.json
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.dll
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\bin\Debug\net8.0\CalculatorEngine.pdb
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfoInputs.cache
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfo.cs
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.sourcelink.json
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.dll
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\refint\CalculatorEngine.dll
+C:\Users\happy\source\repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.pdb
+C:\Users\happy\Source\Repos\N33-LA-SimpleCalculator-Starter\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\ref\CalculatorEngine.dll

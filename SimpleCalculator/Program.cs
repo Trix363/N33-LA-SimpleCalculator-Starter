@@ -16,8 +16,11 @@ namespace SimpleCalculator
                 // Class to perform actual calculations
                 //  CalculatorEngine calculatorEngine = new CalculatorEngine();
 
-                Console.WriteLine("input first number: ");
+                Console.WriteLine("input your first number: ");
                 double firstNumber = InputConverter.ConvertInputToNumeric(Console.ReadLine());
+
+               
+           
 
                 Console.WriteLine("input your second number: ");
                 double secondNumber = InputConverter.ConvertInputToNumeric(Console.ReadLine());
@@ -25,9 +28,9 @@ namespace SimpleCalculator
                 Console.WriteLine("Enter the operation (+, -, *, /): ");
                 string operation = Console.ReadLine();
 
-                var calculatorEngine = new CalculatorEngine();
+                 CalculatorEngine calc = new CalculatorEngine();
 
-                 double result = calculatorEngine.Calculate(operation, firstNumber, secondNumber);
+                 double result = calc.Calculate(operation, firstNumber, secondNumber);
 
 
                 // Console.WriteLine(result);
@@ -42,6 +45,10 @@ namespace SimpleCalculator
                 // Normally, we'd log this error to a file.
                 Console.WriteLine(ex.Message);
             }
+
+        }
+
+       
 
         }
     }

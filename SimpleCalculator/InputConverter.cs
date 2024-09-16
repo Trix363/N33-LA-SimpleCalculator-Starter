@@ -14,5 +14,6 @@ public static class InputConverter
             throw new ArgumentException("numeric number needed");
         }
 
+        
     }
 }
